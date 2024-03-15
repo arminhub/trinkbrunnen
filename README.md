@@ -1,10 +1,12 @@
-# Trinkbrunnen
+# Trinkbrunnen (Demo)
 
 ![Screenshot](documentation/assets/screenshot.png)
 
 ## Beschreibung
 
 Dies ist eine Single-Page Application (SPA), die dazu dient, alle verfügbaren Trinkbrunnen in der Umgebung (Umkreis 1 km Luftlinie) anzuzeigen. Die Anwendung nutzt eine responsive Fullscreen-Oberfläche und integriert eine Leaflet-OpenStreetMap-Karte sowie die Geolocation-API, um die Position des Benutzers zu bestimmen.
+
+Die SPA wurde im Rahmen einer IT-Ausbildung am WIFI Wien für eine Pflichtübung **(Modul: Frontend‐Webapplikationen mit JavaScript entwickeln)** entwickelt.
 
 ## Funktionen
 
