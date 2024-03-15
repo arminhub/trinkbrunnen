@@ -30,3 +30,6 @@ Jedes Trinkbrunnen-Icon (Marker) auf der Karte zeigt bei einem Klick ein Popup a
 - Leaflet für die Kartendarstellung
 - OpenStreetMap als Kartendienst
 - Geolocation-API für die Bestimmung der Benutzerposition
+
+## Ausgabe
+![Ausgabe](documentation/assets/ausgabe.png)
