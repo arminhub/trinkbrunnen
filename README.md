@@ -1,4 +1,4 @@
-# Trinkbrunnen (Demo)
+# Trinkbrunnen
 
 ![Screenshot](documentation/assets/screenshot.png)
 
